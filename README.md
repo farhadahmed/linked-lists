@@ -1,4 +1,4 @@
-In this repository I've created a linked list with the following methods:
+This repository contains a linked list with the following methods:
 
 - isEmpty() checks if a list contains any nodes.
 - size() returns the number of nodes in a list.
